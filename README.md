@@ -1,2 +1,2 @@
-# dark-birthday
-first game
+# dark birthday
+my first game made with gamemaker
